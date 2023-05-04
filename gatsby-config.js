@@ -11,8 +11,8 @@ module.exports = {
         url: 'https://www.strava.com/athletes/64017555',
       },
       {
-        name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+        name: 'My Blog',
+        url: 'https://edwardshh1988.github.io/',
       },
     ],
   },
