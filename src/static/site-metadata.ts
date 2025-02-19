@@ -10,14 +10,14 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteTitle: 'Edward Running Page',
+  siteUrl: 'https://edwardshh.cn/Running-Page/',
+  logo: 'https://i.hd-r.icu/4c55534181cc9e63237d6304b07e7b4d.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      name: 'Strava',
+      url: 'https://www.strava.com/athletes/64017555',
     },
     {
       name: 'About',
