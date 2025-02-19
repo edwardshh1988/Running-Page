@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'Edward Running Page',
   siteUrl: 'https://edwardshh.cn/Running-Page/',
-  logo: 'https://i.hd-r.icu/4c55534181cc9e63237d6304b07e7b4d.jpg',
+  logo: 'https://pic1.imgdb.cn/item/67b59687d0e0a243d400c03a.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
